@@ -21,8 +21,7 @@ https://www.linuxtopia.org/online_books/programming_books/python_programming/pyt
 https://www.linuxtopia.org/online_books/programming_books/python_programming/python_pt05.html
 
 static methods->>
-The @staticmethod is a built-in decorator that defines a static method in the class in Python. 
-A static method doesn't receive any reference argument whether it is called by an instance of a class or by the class itself.
+The @staticmethod is a built-in decorator that defines a static method in the class in Python. A static method doesn't receive any reference argument whether it is called by an instance of a class or by the class itself.
 
 @staticmethod Characteristics
 Declares a static method in the class.
