@@ -1,0 +1,32 @@
+GITHUB REPOS
+
+https://github.com/keon/algorithms
+
+https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews
+
+https://github.com/codebasics/data-structures-algorithms-python
+
+https://www.cs.uct.ac.za/mit_notes/python/Classes.html
+
+https://www.cs.uct.ac.za/mit_notes/python/Object_Oriented_Programming.html
+
+
+Very very Important
+https://www.cs.uct.ac.za/mit_notes/python/index.html
+
+https://www.mygreatlearning.com/blog/oops-interview-questions/
+
+https://www.linuxtopia.org/online_books/programming_books/python_programming/python_ch26s03.html
+
+https://www.linuxtopia.org/online_books/programming_books/python_programming/python_pt05.html
+
+static methods->>
+The @staticmethod is a built-in decorator that defines a static method in the class in Python. 
+A static method doesn't receive any reference argument whether it is called by an instance of a class or by the class itself.
+
+@staticmethod Characteristics
+Declares a static method in the class.
+It cannot have cls or self parameter.
+The static method cannot access the class attributes or the instance attributes.
+The static method can be called using ClassName.MethodName() and also using object.MethodName().
+It can return an object of the class.
