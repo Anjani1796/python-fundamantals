@@ -1,0 +1,10 @@
+Difference between graph and tree:
+
+• A tree can be described as a specialized case of graph with no self loops and circuits.
+
+• There are no loops in a tree whereas a graph can have loops.
+
+• There are three sets in a graph i.e. edges, vertices and a set that represents their relation while a tree consists of nodes that are connected to each other. These connections are referred to as edges.
+
+• In tree there are numerous rules spelling out how connections of nodes can occur whereas graph has no rules dictating the connection among the nodes.
+

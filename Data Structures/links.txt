@@ -1,0 +1,24 @@
+https://github.com/codebasics/data-structures-algorithms-python
+
+https://www.pythonforbeginners.com/basics
+
+https://thecleverprogrammer.com/2020/09/26/data-structures-and-algorithms-with-python/
+
+https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html
+
+https://www.alphacodingskills.com/ds/notes/doubly-linked-list-insert-a-new-node-at-a-given-position.php
+
+https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm
+
+https://realpython.com/python-reduce-function/
+
+https://gist.github.com/cs-fedy/75aa8412b138fa1f7a74b5251cc78409 - circular singly linked list
+
+https://github.com/hasancse91/data-structures
+
+https://www.geeksforgeeks.org/python-program-to-search-an-element-in-a-circular-linked-list/#:~:text=A%20circular%20linked%20list%20is%20a%20type%20of,true.%20Initialize%20a%20node%20pointer%2C%20temp%20%3D%20head.
+
+https://leapgraph.com/graph-data-structures-applications/
+
+
+https://www.section.io/engineering-education/dunder-methods-python/
